@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.328e32cb.css",
-    "main.js": "/my-app/static/js/main.e3668a00.js",
-    "static/media/1.jpg": "/my-app/static/media/1.63b264b10f8d75c2afc3.jpg",
-    "static/media/2.jpg": "/my-app/static/media/2.add97bfb8c981a22ee81.jpg",
-    "index.html": "/my-app/index.html",
-    "main.328e32cb.css.map": "/my-app/static/css/main.328e32cb.css.map",
-    "main.e3668a00.js.map": "/my-app/static/js/main.e3668a00.js.map"
+    "main.css": "/new-weather/static/css/main.6eb88bba.css",
+    "main.js": "/new-weather/static/js/main.e3668a00.js",
+    "static/media/1.jpg": "/new-weather/static/media/1.63b264b10f8d75c2afc3.jpg",
+    "static/media/2.jpg": "/new-weather/static/media/2.add97bfb8c981a22ee81.jpg",
+    "index.html": "/new-weather/index.html",
+    "main.6eb88bba.css.map": "/new-weather/static/css/main.6eb88bba.css.map",
+    "main.e3668a00.js.map": "/new-weather/static/js/main.e3668a00.js.map"
   },
   "entrypoints": [
-    "static/css/main.328e32cb.css",
+    "static/css/main.6eb88bba.css",
     "static/js/main.e3668a00.js"
   ]
 }
